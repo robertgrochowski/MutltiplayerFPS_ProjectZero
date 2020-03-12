@@ -2,7 +2,7 @@
 Multiplayer FPS Shooter game based on Call of Duty: Modern Warfare 2 made in Unity
 
 # About project
-The project was created for educational purposes. It was aimed at learning the basics of the Unity engine and object oriented programming. I used many online tutorials and free assets from the Internet.
+The project was created (in 2017) for educational purposes. It was aimed at learning the basics of the Unity engine and object oriented programming. I used many online tutorials and free assets from the Internet. 
 
 If you would like to try the game, download built version here: http://vps787568.ovh.net/ProjectZero.zip
 
